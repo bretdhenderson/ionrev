@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+}
+
+.headerdummy {
+    width: 100%;
+    height: 73px;
+    background-color: white;
+    border-bottom: 5px solid #1f1f1f;
+}
+
+.header {
+    width: 100%;
+    height: 73px;
+    background-color: white;
+    border-bottom: 5px solid #1f1f1f;
+    position: fixed;
+}
+
+.navbar {
+    margin: 0 auto;
+    width: 60%;
+    height: 73px;
+    overflow: scroll;
+    margin: 0 auto;
+}
+
+li {
+    float: right;
+    padding: 18px 55px;
+    list-style: none;
+    text-align: center;
+}
+
+.powermain {
+    background-image: url(images/webParticals.jpg);
+    height: 631px;
+    width: 100%;
+}
+
+.pwrstate {
+    width: 40%;
+    font-size: 75px;
+    float: left;
+    margin-top: 60px;
+}
+
+.pwrpara {
+    width: 60%;
+    text-align: center;
+    float: right;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.power {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.buttonpwr {
+    margin: 50px auto;
+    background-color: #1f1f1f;
+    width: 386px;
+    height: 88px;
+    float: none;
+    color: white;
+    font-size: 36px;
+}
+
+.micro {
+    width: 100%;
+    height: 297px;
+    margin: 0 auto;
+    background-color: #1f1f1f;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+#micropara {
+    text-align: center;
+    width: 60%;
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 50px 0;
+    color: white;
+}
+
+.ionic{
+    width: 100%;
+    height: 79px;
+    margin: 0 auto;
+    background-color: #1f1f1f;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+.ionicH1 {
+    text-align: center;
+    width: 60%;
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 17px 0;
+    color: white;
+}
+
+.UXmain {
+    margin: 0 auto;
+    height: 550px;
+    width: 70%;
+}
+
+.UXstate {
+    width: 30%;
+    font-size: 75px;
+    float: left;
+    margin-top: 90px;
+}
+
+.UXimg {
+    width: 70%;
+    font-size: 75px;
+    float: right;
+    margin-top: 40px;
+}
+
+.UXmicro {
+    width: 100%;
+    height: 393px;
+    margin: 0 auto;
+    background-color: #1f1f1f;
+    border-top: 5px solid #5CB9F2;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+.UXpara {
+    text-align: center;
+    width: 60%;
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 25px 0;
+    color: white;
+}
+
+.BI {
+    margin: 0 auto;
+    height: 620px;
+    width: 70%;
+}
+
+.BIimg {
+    width: 60%;
+    float: left;
+    margin: 10px;
+}
+
+.BIstate {
+    width: 30%;
+    font-size: 75px;
+    float: right;
+    margin-top: 200px;
+}
+
+.apps {
+    width: 100%;
+    height: 461px;
+    margin: 0 auto;
+    background-color: #1f1f1f;
+    border-top: 5px solid #5CB9F2;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+.appspara {
+    text-align: center;
+    width: 60%;
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 25px 0;
+    color: white;
+}
+
+.bigcolor {
+    width: 100%;
+    background-color: #363636;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+.big {
+    margin: 0 auto;
+    width: 70%;
+    height: 425px;
+}
+
+.bigstate {
+    text-align: center;
+    float: left;
+    width: 60%;
+}
+
+.bigpic {
+    float: right;
+    width: 40%;
+    margin-top: 10px;
+}
+
+.bigpicture {
+    font-size: 40px;
+    color: #5CB9F2;
+    margin-top: 80px;
+}
+
+.bigpara {
+    color: white;
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+.squarecolor {
+    width: 100%;
+    height: 640px;
+    background-color: #1f1f1f;
+    border-bottom: 5px solid #5CB9F2;
+}
+
+.squaremain {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.friends {
+    margin: 0 auto;
+    width: 100%;
+    height: 700px;
+    border-bottom: 5px solid #5CB9F2;
+    text-align: center;
+}
+
+.friendsect {
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 50px;
+}
+
+#friendsstate {
+    font-size: 50px;
+}
+
+#friendpara {
+    margin-top: 20px;   
+    font-size: 35px;
+}
+
+.friendsignup {
+    margin-top: 20px;
+}
+
+.bottommain {
+    width: 100%;
+    height: 100%;
+}
+
+.bottom {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.bottompara {
+    font-size: 35px;
+    color: #5CB9F2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    background-color: #5CB9F2;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.footpara {
+    text-align: center;
+    color: #1f1f1f;
+    width: 60%;
+    margin: 0 auto;
+}
